@@ -10,5 +10,4 @@ DOL 框架描述(随着实验进行迭代添加、修改)
 4. 编译dol 进入刚刚dol的文件夹 $ cd ../dol 修改build_zip.xml文件 修改路径（注意，对于 64位 系统的机器，lib-linux要改成lib-linux64） 然后是编译 $ ant -f build_zip.xml all 若成功会显示build successful 接着可以试试运行第一个例子 进入build/bin/mian路径下 $ cd build/bin/main 然后运行第一个例子 $ sudo ant -f runexample.xml -Dnumber=1 成功结果如图 ![](http://f.hiphotos.baidu.com/image/pic/item/d788d43f8794a4c2985e36cb06f41bd5ac6e39d5.jpg)
 
 #Experimental experience
-简单的来说就是按照着ppt给的内容一步一步执行下去，其中遇到的问题主要是一开始直接使用国外源很难安装，后来更换成阿里云的就差不多解决了。另外的就是发现了markdown这个新大陆，感觉很强势。=。=# ES2016_14353183
-# ES2016_14353183
+简单的来说就是按照着ppt给的内容一步一步执行下去，其中遇到的问题主要是一开始直接使用国外源很难安装，后来更换成阿里云的就差不多解决了。另外的就是发现了markdown这个新大陆，感觉很强势。=。=
